@@ -1,0 +1,31 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "obj1",
+    "artist": "map",
+    "location": "map",
+    "label": "map",
+    "_date": "1801",
+    "object_type": "map",
+    "current_location": "Rumsey",
+    "collection": "riw",
+    "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
+    "permalink": "/riw/obj1",
+    "lunr_id": 0
+  },
+  {
+    "pid": "obj2",
+    "artist": "document",
+    "location": "document",
+    "label": "document",
+    "_date": "1776",
+    "object_type": "document",
+    "current_location": "Huntington",
+    "collection": "riw",
+    "thumbnail": "/img/derivatives/iiif/images/obj2_01/full/250,/0/default.jpg",
+    "permalink": "/riw/obj2",
+    "lunr_id": 1
+  }
+]

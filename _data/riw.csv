@@ -1,0 +1,3 @@
+pid,artist,location,label,_date,object_type,current_location,order,layout,collection,thumbnail,full,manifest
+obj1,map,map,map,1801,map,Rumsey,0,qatar_item,riw,"/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg","/img/derivatives/iiif/images/obj1/full/1140,/0/default.jpg",/img/derivatives/iiif/obj1/manifest.json
+obj2,document,document,document,1776,document,Huntington,1,qatar_item,riw,"/img/derivatives/iiif/images/obj2_01/full/250,/0/default.jpg","/img/derivatives/iiif/images/obj2_01/full/1140,/0/default.jpg",/img/derivatives/iiif/obj2/manifest.json
