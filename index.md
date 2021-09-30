@@ -4,7 +4,7 @@ show_title: false
 banner:
   collection: riw
   pid: obj1
-  y: 25%
+  y: 50%
   height: '500px'
 ---
 
