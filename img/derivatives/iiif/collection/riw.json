@@ -8,14 +8,34 @@ layout: none
   "label": "riw",
   "manifests": [
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj1/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj6/manifest.json",
       "@type": "sc:Manifest",
-      "label": "obj1"
+      "label": "obj6"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj2/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj5"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj3"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj4"
     }
   ]
 }

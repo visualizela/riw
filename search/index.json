@@ -3,29 +3,71 @@ layout: none
 ---
 [
   {
-    "pid": "obj1",
-    "artist": "map",
-    "location": "map",
-    "label": "map",
-    "_date": "1801",
-    "object_type": "map",
-    "current_location": "Rumsey",
+    "pid": "obj5",
+    "creator": "Fernando Xavier de Rivera y Moncada",
+    "label": "Letter from Fernando Xavier de Rivera y Moncada, Captain in the service of Spain in Mexico, to Antonio Maria Bucareli y Ursua, Viceroy of New Spain, May 25, 1776",
+    "_date": "1776",
+    "object_type": "letter",
+    "link": "https://catalog.huntington.org/record=b1800820",
     "collection": "riw",
-    "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
-    "permalink": "/riw/obj1",
+    "thumbnail": "/img/derivatives/iiif/images/obj5_01/full/250,/0/default.jpg",
+    "permalink": "/riw/obj5",
     "lunr_id": 0
   },
   {
+    "pid": "obj1",
+    "label": "map",
+    "_date": "1801",
+    "object_type": "map",
+    "collection": "riw",
+    "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
+    "permalink": "/riw/obj1",
+    "lunr_id": 1
+  },
+  {
+    "pid": "obj4",
+    "creator": "Joaquin Cañete",
+    "label": "Letter from Joaquin Cañete. Spanish soldier serving in California to Francisco Aguiar. August 30 1782",
+    "_date": "1782",
+    "object_type": "letter",
+    "link": "https://catalog.huntington.org/record=b1800930",
+    "collection": "riw",
+    "thumbnail": "/img/derivatives/iiif/images/obj4_01/full/250,/0/default.jpg",
+    "permalink": "/riw/obj4",
+    "lunr_id": 2
+  },
+  {
+    "pid": "obj3",
+    "creator": "Jose Castro",
+    "label": "Jose Castro proclamation to his countrymen on the eve of American occupation. 1846 August 9",
+    "_date": "1846",
+    "object_type": "proclamation",
+    "link": "https://catalog.huntington.org/record=b1862656",
+    "collection": "riw",
+    "thumbnail": "/img/derivatives/iiif/images/obj3_01/full/250,/0/default.jpg",
+    "permalink": "/riw/obj3",
+    "lunr_id": 3
+  },
+  {
+    "pid": "obj6",
+    "creator": "Francisco Javier Uria",
+    "label": "Letter from Francisco Javier Uria friar at Santa Barbara Mission to Captain Francisco Maria Ruiz April 7, 1824",
+    "_date": "1824",
+    "object_type": "letter",
+    "link": "https://catalog.huntington.org/record=b1802537",
+    "collection": "riw",
+    "thumbnail": "/img/derivatives/iiif/images/obj6_01/full/250,/0/default.jpg",
+    "permalink": "/riw/obj6",
+    "lunr_id": 4
+  },
+  {
     "pid": "obj2",
-    "artist": "document",
-    "location": "document",
     "label": "document",
     "_date": "1776",
     "object_type": "document",
-    "current_location": "Huntington",
     "collection": "riw",
     "thumbnail": "/img/derivatives/iiif/images/obj2_01/full/250,/0/default.jpg",
     "permalink": "/riw/obj2",
-    "lunr_id": 1
+    "lunr_id": 5
   }
 ]
