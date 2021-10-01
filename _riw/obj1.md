@@ -1,11 +1,10 @@
 ---
 pid: obj1
-artist: map
-location: map
-label: map
+creator: unknown
+label: 1772 geographic map of most of Spanish North America
 _date: '1801'
 object_type: map
-current_location: Rumsey
+link: https://digitalcommons.csumb.edu/hornbeck_spa_1_a/19/
 order: '0'
 layout: qatar_item
 collection: riw
