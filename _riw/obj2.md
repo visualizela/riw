@@ -8,7 +8,7 @@ link: https://www.davidrumsey.com/luna/servlet/s/x0d827
 order: '1'
 layout: qatar_item
 collection: riw
-thumbnail: "/img/derivatives/iiif/images/obj2_01/full/250,/0/default.jpg"
+thumbnail: "/img/derivatives/iiif/images/obj2/full/250%2C/0/default.jpg"
 full: "/img/derivatives/iiif/images/obj2_01/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj2/manifest.json"
 ---
